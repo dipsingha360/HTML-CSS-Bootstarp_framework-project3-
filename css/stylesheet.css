@@ -253,6 +253,9 @@ body {
 
 /* TEAM */
 
+.team {
+  margin-bottom: 40px;
+}   
 .team .team-head h4 {
   font-size: 20px;
   font-weight: 550;
